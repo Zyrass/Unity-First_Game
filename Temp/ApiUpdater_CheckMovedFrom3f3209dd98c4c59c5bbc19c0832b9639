@@ -1,0 +1,96 @@
+140396307780800
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+3
+27
+UnityStandardAssets.CrossPlatformInput
+0
+0
+140396307781016
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+4
+27
+UnityStandardAssets.Utility
+0
+0
+140396307781232
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs
+3
+27
+UnityStandardAssets.Utility
+0
+0
+140396307781448
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs
+3
+27
+UnityStandardAssets.CrossPlatformInput
+0
+0
+140396307781664
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs
+3
+27
+UnityStandardAssets.CrossPlatformInput
+0
+0
+140396307781880
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/RollerBall/Scripts/BallUserControl.cs
+3
+27
+UnityStandardAssets.CrossPlatformInput
+0
+0
+140396307782096
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs
+3
+27
+UnityStandardAssets.CrossPlatformInput
+0
+0
+140396307782312
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+23
+34
+FOVKick
+0
+0
+140396307782528
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs
+10
+16
+CurveControlledBob
+0
+0
+140396307782744
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+25
+34
+CurveControlledBob
+0
+0
+140396307782960
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs
+11
+16
+LerpControlledBob
+0
+0
+140396307783176
+4161891085454297933
+/home/zyrass/Unity/Formations/Labyrinthe_Game/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+26
+34
+LerpControlledBob
+0
+0
