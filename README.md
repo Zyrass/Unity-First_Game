@@ -24,3 +24,11 @@ UNITY - [ Perso] - Création d'un premier jeu, un labyrinte en 3D
 ### Message affiché pour l'ouverture de la porte
 
 ![Message affiché pour l'ouverture de la porte](https://github.com/Zyrass/Unity-First_Game/blob/master/images/message_open_door.png?raw=true)
+
+### PNJ trouvé
+
+![PNJ trouvé](https://github.com/Zyrass/Unity-First_Game/blob/master/images/pnj_ok.png?raw=true)
+
+### Porte ouverte par le PNJ
+
+![Porte ouverte par le PNJ](https://github.com/Zyrass/Unity-First_Game/blob/master/images/door_open.png?raw=true)
